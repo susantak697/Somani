@@ -969,7 +969,7 @@ a:focus {
 
 .location .location-form {
     padding: 45px 30px;
-    background: #E81C2E;
+    background: rgb(32, 44, 69);
     border-radius: 5px;
 }
 
@@ -2116,8 +2116,8 @@ a:focus {
 }
 .dtBtn {
     color: #fff !important;
-    margin-top: 5px;
-    padding: 3px 8px;
+    margin-top: 5px !important;
+    padding: 3px 8px !important;
     border-radius: 19px;
-    font-size: 83%;
+    font-size: 83% !important;
 }
