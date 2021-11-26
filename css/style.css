@@ -1936,7 +1936,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    padding-top: 90px;
+    padding-top: 20px;
     background: #202C45;
 }
 
@@ -1944,7 +1944,7 @@ a:focus {
 .footer .footer-link,
 .footer .footer-newsletter {
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 9px;
     color: #ffffff;
 }
 
